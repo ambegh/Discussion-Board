@@ -1,4 +1,4 @@
-myBlog.controller('MainCtrl', ['$scope','postService',
+myBlog.controller('FrontCtrl', ['$scope','postService',
 
 function($scope,postService){
   
